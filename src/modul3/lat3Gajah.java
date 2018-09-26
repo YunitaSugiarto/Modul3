@@ -4,7 +4,7 @@ package modul3;
 public class lat3Gajah extends lat3Hewan {
     
     public static void testClassMethod(){
-        System.out.println("The Class Method in lat3Hewan...");
+        System.out.println("The Class Method in lat3ewan...");
     }
     
     //meng-override method pada class Animal
